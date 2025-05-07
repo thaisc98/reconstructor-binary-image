@@ -1,4 +1,6 @@
-## Recontrctor binaru Image using Hill climbing 
+## Recontrctor Binary Image Using Hill climbing 
+
+The objective of this project was to develop an algorithm capable of reconstructing a binary image by minimizing the discrepancy between a target image and a random image. The approach involved using a hill climbing optimization technique.
 
 Examples from Random image to smiley face and smiley to new random image
 
